@@ -1,8 +1,8 @@
-# 🚗 Refined Motion
+ Refined Motion
 
 **Refined Motion** is a luxury-inspired front-end website that showcases the elegance, innovation, and performance of Audi vehicles. The project was built to strengthen my understanding of HTML, CSS, and JavaScript by creating an interactive and visually engaging user experience from scratch.
 
-## ✨ Features
+ Features
 
 * Cinematic introductory animation
 * Responsive navigation bar with smooth scrolling
@@ -13,13 +13,13 @@
 * Clean typography and premium-inspired design
 * Links to Audi's official website
 
-## 🛠️ Built With
+ Built With
 
 * HTML5
 * CSS3
 * JavaScript (Vanilla JavaScript)
 
-## 🎯 Project Goals
+ Project Goals
 
 The goal of this project was to:
 
@@ -28,7 +28,7 @@ The goal of this project was to:
 * Explore JavaScript beyond classroom lessons
 * Create a professional-looking landing page without using front-end frameworks such as Bootstrap
 
-## 📂 Project Structure
+ Project Structure
 
 ```
 Refined Motion/
@@ -39,7 +39,7 @@ Refined Motion/
 └── images/
 ```
 
-## 📸 Highlights
+ Highlights
 
 * Interactive rotating Featured Models section
 * Gallery lightbox for viewing images
@@ -47,13 +47,13 @@ Refined Motion/
 * Cinematic intro sequence
 * Luxury-inspired user interface
 
-## 🚀 Live Demo
+ Live Demo
 
 Visit the live website here:
 
 https://joymakena-jk.github.io/Refined-Motion/
 
-## 💡 Lessons Learned
+ Lessons Learned
 
 This project helped me gain practical experience with:
 
@@ -67,7 +67,7 @@ This project helped me gain practical experience with:
 * Interactive user interfaces
 * Organizing front-end projects
 
-## 🌱 Future Improvements
+ Future Improvements
 
 * Improve mobile responsiveness
 * Add a dark/light theme switch
@@ -76,12 +76,12 @@ This project helped me gain practical experience with:
 * Enhance accessibility
 * Optimize image loading and overall performance
 
-## 👩‍💻 Author
+ Author
 
-**Makena**
+Makena
 
 Inspired by Audi. Crafted with precision.
 
----
+
 
 *This project was created for learning purposes and is not affiliated with or endorsed by Audi AG. All trademarks, logos, and vehicle images belong to their respective owners.*

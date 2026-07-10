@@ -80,8 +80,5 @@ This project helped me gain practical experience with:
 
 Makena
 
-Inspired by Audi. Crafted with precision.
-
-
 
 *This project was created for learning purposes and is not affiliated with or endorsed by Audi AG. All trademarks, logos, and vehicle images belong to their respective owners.*

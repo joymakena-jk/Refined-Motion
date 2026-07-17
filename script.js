@@ -115,6 +115,23 @@ closeBtn.addEventListener("click", () => {
 
 });
 
+closeBtn.addEventListener("keydown", (event) => {
+
+    if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        lightbox.style.display = "none";
+    }
+
+});
+
+document.addEventListener("keydown", (event) => {
+
+    if(event.key === "Escape"){
+        lightbox.style.display = "none";
+    }
+
+});
+
 lightbox.addEventListener("click", (event) => {
 
     if(event.target === lightbox){
